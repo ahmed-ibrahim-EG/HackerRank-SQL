@@ -8,20 +8,20 @@ The goal of this repository is to strengthen my SQL logic, problem-solving skill
 
 ## 🎯 Goals
 
-- Improve SQL problem-solving and logical thinking.
-- Practice writing clean and readable SQL queries.
-- Strengthen understanding of SQL concepts through practical problems.
-- Build consistency by solving problems of different difficulty levels.
-- Document my progress throughout my Data Engineering journey.
+* Improve SQL problem-solving and logical thinking.
+* Practice writing clean and readable SQL queries.
+* Strengthen understanding of SQL concepts through practical problems.
+* Build consistency by solving problems of different difficulty levels.
+* Document my progress throughout my Data Engineering journey.
 
 ---
 
 ## 🛠️ Technologies
 
-- **SQL**
-- **Microsoft SQL Server**
-- **T-SQL**
-- **HackerRank**
+* **SQL**
+* **Microsoft SQL Server**
+* **T-SQL**
+* **HackerRank**
 
 ---
 
@@ -35,7 +35,9 @@ HackerRank-SQL/
 │   ├── Weather_Observation_Station_18.sql
 │   ├── Population_More_Than_100000.sql
 │   ├── California_Population.sql
-│   └── American_Cities_Population.sql
+│   ├── American_Cities_Population.sql
+│   ├── Japan_Population.sql
+│   └── Average_Population_California.sql
 │
 ├── Basic-Select/
 ├── Basic-Joins/
@@ -54,15 +56,15 @@ Each SQL file contains:
 
 ## 📊 Current Progress
 
-| Section | Problems Solved |
-|---|---:|
-| Aggregation | 5 |
-| Basic Select | 0 |
-| Basic Joins | 0 |
-| Advanced Select | 0 |
-| Advanced Joins | 0 |
-| Alternative Queries | 0 |
-| **Total** | **5** |
+| Section             | Problems Solved |
+| ------------------- | --------------: |
+| Aggregation         |               7 |
+| Basic Select        |               0 |
+| Basic Joins         |               0 |
+| Advanced Select     |               0 |
+| Advanced Joins      |               0 |
+| Alternative Queries |               0 |
+| **Total**           |           **7** |
 
 > Progress will be updated as I solve more problems.
 
@@ -70,27 +72,28 @@ Each SQL file contains:
 
 ## 🧠 Topics Practiced
 
-- `SELECT`
-- `WHERE`
-- `AND / OR`
-- Aggregate Functions
-- `COUNT()`
-- `SUM()`
-- `MIN() / MAX()`
-- `GROUP BY`
-- `HAVING`
-- `ORDER BY`
-- String Functions
-- Query Logic
-- Problem Analysis
+* `SELECT`
+* `WHERE`
+* `AND / OR`
+* Aggregate Functions
+* `COUNT()`
+* `SUM()`
+* `AVG()`
+* `MIN() / MAX()`
+* `GROUP BY`
+* `HAVING`
+* `ORDER BY`
+* String Functions
+* Query Logic
+* Problem Analysis
 
 As I progress, the repository will also include:
 
-- Joins
-- Subqueries
-- CTEs
-- Window Functions
-- Advanced SQL techniques
+* Joins
+* Subqueries
+* CTEs
+* Window Functions
+* Advanced SQL techniques
 
 ---
 
@@ -100,15 +103,15 @@ This repository is part of my broader journey toward becoming a **Data Engineer*
 
 SQL is one of the core skills I am building before moving deeper into:
 
-- Data Modeling
-- ETL / ELT
-- Python for Data Engineering
-- SQL Server
-- Docker
-- Apache Airflow
-- Apache Kafka
-- Apache Spark
-- Microsoft Azure
+* Data Modeling
+* ETL / ELT
+* Python for Data Engineering
+* SQL Server
+* Docker
+* Apache Airflow
+* Apache Kafka
+* Apache Spark
+* Microsoft Azure
 
 ---
 
@@ -122,8 +125,8 @@ The goal is not only to solve problems, but to improve my ability to **think in 
 
 ## 📈 Progress
 
-**Current Section:** Aggregation  
-**Problems Solved:** 5
+**Current Section:** Aggregation
+**Problems Solved:** 7
 
 This repository will be continuously updated as I progress through HackerRank SQL challenges.
 
@@ -133,7 +136,7 @@ This repository will be continuously updated as I progress through HackerRank SQ
 
 **Ahmed Ibrahim**
 
-Computer & Data Science Student  
+Computer & Data Science Student
 Aspiring Data Engineer
 
 [GitHub](https://github.com/ibrhamahmed14-design) • [LinkedIn](https://linkedin.com/in/ahmed-ibrahim-36600b2a5)
