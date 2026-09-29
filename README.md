@@ -48,108 +48,90 @@ HackerRank-SQL/
 ├── Basic-Joins/
 ├── Advanced-Joins/
 └── Alternative-Queries/
+```
+
 Each SQL file contains:
 
-The problem statement
+1. **The problem statement**
+2. **The required output**
+3. **My SQL solution**
 
-The required output
+## 📊 Current Progress
 
-My SQL solution
+| Section             | Problems Solved |
+| ------------------- | --------------- |
+| Aggregation         | 8               |
+| Advanced Select     | 2               |
+| Basic Select        | 0               |
+| Basic Joins         | 0               |
+| Advanced Joins      | 0               |
+| Alternative Queries | 0               |
+| **Total**           | **10**          |
 
-📊 Current Progress
-Section	Problems Solved
-Aggregation	8
-Advanced Select	2
-Basic Select	0
-Basic Joins	0
-Advanced Joins	0
-Alternative Queries	0
-Total	10
-Progress will be updated as I solve more problems.
+> Progress will be updated as I solve more problems.
 
-🧠 Topics Practiced
-SELECT
+## 🧠 Topics Practiced
 
-WHERE
-
-AND / OR
-
-Conditional Logic (CASE WHEN)
-
-Aggregate Functions
-
-COUNT() & COUNT(DISTINCT)
-
-SUM()
-
-AVG()
-
-MIN() / MAX()
-
-GROUP BY
-
-HAVING
-
-ORDER BY
-
-Table Joins (INNER JOIN)
-
-String Functions
-
-Query Logic
-
-Problem Analysis
+* `SELECT`
+* `WHERE`
+* `AND / OR`
+* Conditional Logic (`CASE WHEN`)
+* Aggregate Functions
+* `COUNT()` & `COUNT(DISTINCT)`
+* `SUM()`
+* `AVG()`
+* `MIN() / MAX()`
+* `GROUP BY`
+* `HAVING`
+* `ORDER BY`
+* Table Joins (`INNER JOIN`)
+* String Functions
+* Query Logic
+* Problem Analysis
 
 As I progress, the repository will also include:
 
-Subqueries
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+* Advanced SQL techniques
 
-Common Table Expressions (CTEs)
+## 🚀 Data Engineering Journey
 
-Window Functions
-
-Advanced SQL techniques
-
-🚀 Data Engineering Journey
-This repository is part of my broader journey toward becoming a Data Engineer.
+This repository is part of my broader journey toward becoming a **Data Engineer**.
 
 SQL is one of the core skills I am building before moving deeper into:
 
-Data Modeling
+* Data Modeling
+* ETL / ELT
+* Python for Data Engineering
+* SQL Server
+* Docker
+* Apache Airflow
+* Apache Kafka
+* Apache Spark
+* Microsoft Azure
 
-ETL / ELT
+## 📌 Problem-Solving Approach
 
-Python for Data Engineering
-
-SQL Server
-
-Docker
-
-Apache Airflow
-
-Apache Kafka
-
-Apache Spark
-
-Microsoft Azure
-
-📌 Problem-Solving Approach
 For each problem, I focus first on understanding the requirements and expected output before writing the query.
 
-The goal is not only to solve problems, but to improve my ability to think in SQL, understand the data requirements, and choose the appropriate SQL concepts for each problem.
+The goal is not only to solve problems, but to improve my ability to **think in SQL**, understand the data requirements, and choose the appropriate SQL concepts for each problem.
 
-📈 Progress
-Current Focus: Aggregation & Advanced Select
+## 📈 Progress
 
-Problems Solved: 10
+**Current Focus:** Aggregation & Advanced Select
+
+**Problems Solved:** 10
 
 This repository will be continuously updated as I progress through HackerRank SQL challenges.
 
-👤 Author
-Ahmed Ibrahim
+## 👤 Author
+
+**Ahmed Ibrahim**
 
 Computer & Data Science Student
 
 Aspiring Data Engineer
 
-GitHub • LinkedIn
+[GitHub](https://github.com/ibrhamahmed14-design) • [LinkedIn](https://linkedin.com/in/ahmed-ibrahim-36600b2a5)
