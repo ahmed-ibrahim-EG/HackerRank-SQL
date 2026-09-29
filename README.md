@@ -37,106 +37,119 @@ HackerRank-SQL/
 │   ├── California_Population.sql
 │   ├── American_Cities_Population.sql
 │   ├── Japan_Population.sql
-│   └── Average_Population_California.sql
+│   ├── Average_Population_California.sql
+│   └── Population_Density_Difference.sql
+│
+├── Advanced-Select/
+│   ├── Type_of_Triangle.sql
+│   └── New_Companies.sql
 │
 ├── Basic-Select/
 ├── Basic-Joins/
-├── Advanced-Select/
 ├── Advanced-Joins/
 └── Alternative-Queries/
-```
-
 Each SQL file contains:
 
-1. **The problem statement**
-2. **The required output**
-3. **My SQL solution**
+The problem statement
 
----
+The required output
 
-## 📊 Current Progress
+My SQL solution
 
-| Section             | Problems Solved |
-| ------------------- | --------------: |
-| Aggregation         |               7 |
-| Basic Select        |               0 |
-| Basic Joins         |               0 |
-| Advanced Select     |               0 |
-| Advanced Joins      |               0 |
-| Alternative Queries |               0 |
-| **Total**           |           **7** |
+📊 Current Progress
+Section	Problems Solved
+Aggregation	8
+Advanced Select	2
+Basic Select	0
+Basic Joins	0
+Advanced Joins	0
+Alternative Queries	0
+Total	10
+Progress will be updated as I solve more problems.
 
-> Progress will be updated as I solve more problems.
+🧠 Topics Practiced
+SELECT
 
----
+WHERE
 
-## 🧠 Topics Practiced
+AND / OR
 
-* `SELECT`
-* `WHERE`
-* `AND / OR`
-* Aggregate Functions
-* `COUNT()`
-* `SUM()`
-* `AVG()`
-* `MIN() / MAX()`
-* `GROUP BY`
-* `HAVING`
-* `ORDER BY`
-* String Functions
-* Query Logic
-* Problem Analysis
+Conditional Logic (CASE WHEN)
+
+Aggregate Functions
+
+COUNT() & COUNT(DISTINCT)
+
+SUM()
+
+AVG()
+
+MIN() / MAX()
+
+GROUP BY
+
+HAVING
+
+ORDER BY
+
+Table Joins (INNER JOIN)
+
+String Functions
+
+Query Logic
+
+Problem Analysis
 
 As I progress, the repository will also include:
 
-* Joins
-* Subqueries
-* CTEs
-* Window Functions
-* Advanced SQL techniques
+Subqueries
 
----
+Common Table Expressions (CTEs)
 
-## 🚀 Data Engineering Journey
+Window Functions
 
-This repository is part of my broader journey toward becoming a **Data Engineer**.
+Advanced SQL techniques
+
+🚀 Data Engineering Journey
+This repository is part of my broader journey toward becoming a Data Engineer.
 
 SQL is one of the core skills I am building before moving deeper into:
 
-* Data Modeling
-* ETL / ELT
-* Python for Data Engineering
-* SQL Server
-* Docker
-* Apache Airflow
-* Apache Kafka
-* Apache Spark
-* Microsoft Azure
+Data Modeling
 
----
+ETL / ELT
 
-## 📌 Problem-Solving Approach
+Python for Data Engineering
 
+SQL Server
+
+Docker
+
+Apache Airflow
+
+Apache Kafka
+
+Apache Spark
+
+Microsoft Azure
+
+📌 Problem-Solving Approach
 For each problem, I focus first on understanding the requirements and expected output before writing the query.
 
-The goal is not only to solve problems, but to improve my ability to **think in SQL**, understand the data requirements, and choose the appropriate SQL concepts for each problem.
+The goal is not only to solve problems, but to improve my ability to think in SQL, understand the data requirements, and choose the appropriate SQL concepts for each problem.
 
----
+📈 Progress
+Current Focus: Aggregation & Advanced Select
 
-## 📈 Progress
-
-**Current Section:** Aggregation
-**Problems Solved:** 7
+Problems Solved: 10
 
 This repository will be continuously updated as I progress through HackerRank SQL challenges.
 
----
-
-## 👤 Author
-
-**Ahmed Ibrahim**
+👤 Author
+Ahmed Ibrahim
 
 Computer & Data Science Student
+
 Aspiring Data Engineer
 
-[GitHub](https://github.com/ibrhamahmed14-design) • [LinkedIn](https://linkedin.com/in/ahmed-ibrahim-36600b2a5)
+GitHub • LinkedIn
